@@ -1,0 +1,30 @@
+_repo: Queechy_8874
+creator:
+  author:
+    agent_name: Warner, Susan
+    aliases:
+    - Warner, Susan Bogert
+    - Wetherell, Elizabeth
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+description: 'Pseudonym: Wetherell, Elizabeth'
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Grandfathers -- Juvenile fiction'
+title: Queechy
+url: http://www.gutenberg.org/ebooks/8874
